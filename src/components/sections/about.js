@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript (ES6+)', 'React', 'Styled Components', 'CSS', 'Node.js', 'Firebase'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,32 +136,23 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Stefano and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              interest in web development started back in 2014 when I decided to try creating my
+              first web page — turns out hacking together a few headers, paragraphs, images and
+              buttons taught me a lot about HTML &amp; CSS!
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              Fast-forward to today, I'm a web developer specializing in building accessible user
+              interfaces and exceptional digital experiences.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              I'm naturally curious, I love to learn, and pick up skills quickly. I've been coding
+              for two years, and it has been one of the most fulfilling and engaging experiences of
+              my life! I see everything I do as a great opportunity for authentic self-expression.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few technologies I've been working with recently:</p>
           </div>
 
           <ul className="skills-list">
