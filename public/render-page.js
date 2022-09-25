@@ -4256,7 +4256,7 @@ var plugins = [{
     "cache_busting_mode": "query",
     "crossOrigin": "anonymous",
     "include_favicon": true,
-    "cacheDigest": "4191907c9ab688540bdaa69a91105101"
+    "cacheDigest": "2b7945593118ed64326a23f6d27c0658"
   }
 }, {
   name: 'gatsby-plugin-offline',
