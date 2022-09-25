@@ -1,12 +1,13 @@
 ---
 date: '2022-09-23'
-title: 'Fylo'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
-external: 'https://keep-vue.netlify.com/'
+title: 'Fylo Landing Page'
+github: 'https://github.com/StefanoConsonni/fylo-landing-page'
+external: 'https://fylo-tech.netlify.app/'
 tech:
-  - Vue
-  - Firebase
+  - HTML
+  - CSS
+  - Javascript
 showInProjects: true
 ---
 
-A simple Google Keep clone built with Vue and Firebase.
+A beautiful landing page built for a Tech Company. The page if fully responsive for all screen sizes. All the images used for the project have been optimized for better performance. Specific favicons for android and apple devices have been added.

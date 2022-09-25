@@ -2,15 +2,16 @@
 date: '2022-09-01'
 title: 'We Love Camps'
 cover: './demo-we-love-camps.jpg'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+github: 'https://github.com/StefanoConsonni/we-love-camps'
+external: 'https://we-love-camps.herokuapp.com/'
 cta: ''
 tech:
-  - React
+  - Node.js
   - Express
-  - Spotify API
-  - Styled Components
+  - MongoDB
+  - Mapbox
+  - EJS
+  - Bootstrap
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow.
+We Love Camps is an online platform for camping lovers! It allows you to add, edit and review all your favourite campgrounds. Create your account, navigate through the integrated map, find your next weekend/holiday destination, look at the pictures, read about other people's experiences and leave a review so that we can make camping even more enjoyable for everyone!

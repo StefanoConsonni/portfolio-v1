@@ -12,5 +12,4 @@ tech:
   - CSS
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow.
+A web app that retrieves data from the Rick and Morty API. It displays a grid with all characters ever appeared in the episodes of this fantastic animated science-fiction sitecom. Navigate through the multiple pages of the website, search for your beloved characters and select your favourite cards!

@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/StefanoConsonni/portfolio-v1/main/src/images/logo.png" width="70" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/StefanoConsonni/portfolio-v1/main/src/images/logo.png" width="90" />
 </div>
 <h1 align="center">
   stefanoconsonni.com
