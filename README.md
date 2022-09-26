@@ -2,13 +2,13 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/StefanoConsonni/portfolio-v1/main/src/images/logo.png" width="90" />
 </div>
 <h1 align="center">
-  stefanoconsonni.com
+  stefanoconsonni.netlify.app
 </h1>
 <p align="center">
-  The first iteration of <a href="https://stefanoconsonni.com" target="_blank">stefanoconsonni.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The first iteration of <a href="https://stefanoconsonni.netlify.app/" target="_blank">stefanoconsonni.netlify.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="" target="_blank">
     <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
   </a>
 </p>

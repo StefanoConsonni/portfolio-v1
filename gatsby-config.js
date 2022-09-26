@@ -5,7 +5,7 @@ module.exports = {
     title: 'Stefano Consonni',
     description:
       'Stefano Consonni is a web developer who specializes in building user interfaces and exceptional digital experiences.',
-    siteUrl: 'https://stefanoconsonni.com', // No trailing slash allowed!
+    siteUrl: 'https://stefanoconsonni.netlify.app/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@steven_cons',
   },
