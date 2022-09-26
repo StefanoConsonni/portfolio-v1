@@ -8,7 +8,7 @@ module.exports = {
     },
     // {
     //   name: 'Instagram',
-    //   url: 'https://www.instagram.com/stefcons',
+    //   url: 'https://www.instagram.com/',
     // },
     {
       name: 'Twitter',
@@ -20,7 +20,7 @@ module.exports = {
     },
     // {
     //   name: 'Codepen',
-    //   url: 'https://codepen.io/stefcons',
+    //   url: 'https://codepen.io/',
     // },
   ],
 
