@@ -3,7 +3,7 @@ date: '2022-09-01'
 title: 'We Love Camps'
 cover: './demo-we-love-camps.jpg'
 github: 'https://github.com/StefanoConsonni/we-love-camps'
-external: 'https://we-love-camps.herokuapp.com/'
+external: 'https://we-love-camps.up.railway.app/'
 cta: ''
 tech:
   - Node.js
