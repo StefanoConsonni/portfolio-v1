@@ -1,7 +1,7 @@
 ---
 date: '2022-09-25'
 title: 'Rick and Morty App'
-cover: './demo-rick-and-morty.jpg'
+cover: './demo-rick-and-morty.png'
 github: 'https://github.com/StefanoConsonni/rick-and-morty-app'
 external: 'https://rickandmorty-ste.netlify.app/'
 cta: ''

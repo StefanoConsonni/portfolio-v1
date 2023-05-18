@@ -1,7 +1,7 @@
 ---
 date: '2022-09-01'
 title: 'We Love Camps'
-cover: './demo-we-love-camps.jpg'
+cover: './demo-we-love-camps.png'
 github: 'https://github.com/StefanoConsonni/we-love-camps'
 external: 'https://we-love-camps.up.railway.app/'
 cta: ''
