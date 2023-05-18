@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://stefanoconsonni.com/sitemap.xml
-Host: https://stefanoconsonni.com
+Sitemap: https://stefanoconsonni.netlify.app/sitemap-index.xml
+Host: https://stefanoconsonni.netlify.app
