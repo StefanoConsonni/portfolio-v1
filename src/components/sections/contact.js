@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import styled from 'styled-components';
-import { srConfig, email } from '@config';
+import { srConfig } from '@config';
 import sr from '@utils/sr';
 import { usePrefersReducedMotion } from '@hooks';
 
@@ -65,8 +65,8 @@ const Contact = () => {
         links in the sidebar to get in touch that way.
       </p>
 
-      <a className="email-link" href={`mailto:${email}`}>
-        Say Hello
+      <a className="email-link" href="https://www.linkedin.com/in/stefano-consonni-dev/">
+        Say Hello on LinkedIn
       </a>
     </StyledContactSection>
   );

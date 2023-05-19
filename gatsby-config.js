@@ -63,14 +63,6 @@ module.exports = {
       options: {
         plugins: [
           {
-            // https://www.gatsbyjs.org/packages/gatsby-remark-external-links
-            resolve: 'gatsby-remark-external-links',
-            options: {
-              target: '_blank',
-              rel: 'nofollow noopener noreferrer',
-            },
-          },
-          {
             // https://www.gatsbyjs.org/packages/gatsby-remark-images
             resolve: 'gatsby-remark-images',
             options: {
@@ -80,10 +72,6 @@ module.exports = {
               tracedSVG: { color: config.colors.green },
             },
           },
-          {
-            // https://www.gatsbyjs.org/packages/gatsby-remark-code-titles/
-            resolve: 'gatsby-remark-code-titles',
-          }, // IMPORTANT: this must be ahead of other plugins that use code blocks
           {
             // https://www.gatsbyjs.org/packages/gatsby-remark-prismjs
             resolve: `gatsby-remark-prismjs`,
