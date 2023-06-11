@@ -1,5 +1,5 @@
 ---
-date: '2022-09-01'
+date: '2022-09-23'
 title: 'We Love Camps'
 cover: './demo-we-love-camps.png'
 github: 'https://github.com/StefanoConsonni/we-love-camps'

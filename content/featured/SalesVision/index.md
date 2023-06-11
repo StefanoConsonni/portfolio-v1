@@ -1,5 +1,5 @@
 ---
-date: '2023-05-30'
+date: '2022-09-22'
 title: 'Sales Vision'
 cover: './demo-sales-vision.png'
 github: 'https://github.com/StefanoConsonni/sales-vision'
