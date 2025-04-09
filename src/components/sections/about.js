@@ -148,7 +148,7 @@ const About = () => {
 
             <p>
               I'm naturally curious, I love to learn, and pick up skills quickly. I've been coding
-              for two years, and it has been one of the most fulfilling and engaging experiences of
+              for four years, and it has been one of the most fulfilling and engaging experiences of
               my life! I see everything I do as a great opportunity for authentic self-expression.
             </p>
 
